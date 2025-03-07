@@ -29,4 +29,4 @@ if st.button("🔄 Generate Password"):
     password = password_generator(Length, Use_Digits, Use_Special_Characters)
     st.success(f"✅ Your Secure Password: `{password}`")
 
-st.write("🔒 Stay Secure! Developed with ❤️ by **Muzna Amir**")
+st.write("🔒 Stay Secure! Developed with ❤️ by [**Muzna Amir**](https://github.com/MuznaZuberi)");
