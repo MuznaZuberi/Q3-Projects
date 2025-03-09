@@ -13,4 +13,4 @@
 Contributions are welcome! Feel free to fork, improve, and submit a pull request. 😊
 
 ## 📬 Contact
-For queries, collaborations, or discussions, reach out at muznazuberi123@gmail.com 📩 or connect on LinkedIn=(https://www.linkedin.com/in/muzna-amir-zubairi-280135264/).
+For queries, collaborations, or discussions, reach out at muznazuberi123@gmail.com 📩 or connect on LinkedIn=[Muzna Amir](https://www.linkedin.com/in/muzna-amir-zubairi-280135264/).
